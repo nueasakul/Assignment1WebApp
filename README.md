@@ -6,19 +6,12 @@ API Server สร้างด้วย **Node.js + Express.js** ทำหน้�
 - **Server 1 (Drone Config Server):** เก็บข้อมูล config และสถานะของโดรน
 - **Server 2 (Drone Log Server / PocketBase):** เก็บ log อุณหภูมิของโดรน
 
-**Deployment:** `<http://assignment1webapp.onrender.com>`
+**Deployment:** [`<http://assignment1webapp.onrender.com>`](http://assignment1webapp.onrender.com)
 
 ## วิธี run บนเบราว์เซอร์
-1. เปิดเบราว์เซอร์แล้วพิมพ์
-   ```
-   http://assignment1webapp.onrender.com/configs/67010999
-   ```
-   ```
-   http://assignment1webapp.onrender.com/status/67010999
-   ```
-   ```
-   http://assignment1webapp.onrender.com/logs/67010999
-   ```
+1. [http://assignment1webapp.onrender.com/configs/67010999](http://assignment1webapp.onrender.com/configs/67010999)
+2. [http://assignment1webapp.onrender.com/status/67010999](http://assignment1webapp.onrender.com/status/67010999)
+3. [http://assignment1webapp.onrender.com/logs/67010999](http://assignment1webapp.onrender.com/logs/67010999)
 
 ## วิธี run ในเครื่อง
 
